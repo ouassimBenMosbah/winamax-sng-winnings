@@ -1,0 +1,1 @@
+# winamax-sng-winnings
