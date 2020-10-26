@@ -1,0 +1,11 @@
+.user-stats {
+  font-weight: bold;
+}
+
+.winning-player {
+  color: rgb(67, 172, 48);
+}
+
+.losing-player {
+  color: rgb(172, 48, 48);
+}
